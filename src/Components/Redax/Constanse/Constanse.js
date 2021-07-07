@@ -1,0 +1,5 @@
+export const constanse = {
+  ADD_CONTACT: "ADD_CONTACT",
+  UPDATE_CONTACT: "UPDATE_CONTACT",
+  DELET_CONTACT:"DELET_CONTACT"
+};
